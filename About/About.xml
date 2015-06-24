@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>SmallSolarsStuffed</name>
+	<author>Skullywag</author>
+	<targetVersion>Alpha 11</targetVersion>
+	<description>Adds multpile sized, smaller than the vanilla solar panels that can be made with stuff.
+  
+MICRO 3X3          Energy          Health         Flammable         Beauty  
+Steel panel:           1300W           225               20%                 -10
+Silver panel:          1400W           158               20%                 -10
+Gold panel:            1500W          135               20%                 -10
+Plasteel panel:       1700W          630               10%                 -10
+Uranium panel:      1800W          560                 0%                  -10
+
+MINI 2X2
+Steel panel:           560W           100               20%                 -10
+Silver panel:          600W           70               20%                 -10
+Gold panel:            640W          60               20%                 -10
+Plasteel panel:       700W          280               10%                 -10
+Uranium panel:      740W          250                 0%                  -10
+
+SINGLE 1X1
+Steel panel:           135W           25               20%                 -10
+Silver panel:          145W           18               20%                 -10
+Gold panel:            155W          15               20%                 -10
+Plasteel panel:       165W          70               10%                 -10
+Uranium panel:      175W          62                 0%                  -10</description>
+</ModMetaData>
