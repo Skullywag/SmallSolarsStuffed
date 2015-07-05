@@ -56,7 +56,6 @@
     <terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
     <designationCategory>Power</designationCategory>
     <staticSunShadowHeight>0.20</staticSunShadowHeight>
-    <designationHotkey>L</designationHotkey>
   </ThingDef>
 
   <ThingDef ParentName="BuildingBase">
@@ -103,7 +102,6 @@
     <terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
     <designationCategory>Power</designationCategory>
     <staticSunShadowHeight>0.20</staticSunShadowHeight>
-    <designationHotkey>L</designationHotkey>
   </ThingDef>
 
   <ThingDef ParentName="BuildingBase">
@@ -150,7 +148,6 @@
     <terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
     <designationCategory>Power</designationCategory>
     <staticSunShadowHeight>0.20</staticSunShadowHeight>
-    <designationHotkey>L</designationHotkey>
   </ThingDef>
 
 </Buildings>
