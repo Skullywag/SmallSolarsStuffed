@@ -4,25 +4,30 @@
   <ThingDef Name="BuildingBase" Abstract="True">
     <category>Building</category>
     <thingClass>Building</thingClass>
-    <soundImpactDefault>BulletImpactMetal</soundImpactDefault>
     <selectable>true</selectable>
     <drawerType>MapMeshAndRealTime</drawerType>
     <terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
     <repairEffect>Repair</repairEffect>
     <leaveResourcesWhenKilled>true</leaveResourcesWhenKilled>
     <filthLeaving>BuildingRubble</filthLeaving>
+    <researchPrerequisites>
+      <li>SolarPanels</li>
+    </researchPrerequisites>
   </ThingDef>
 
   <ThingDef ParentName="BuildingBase">
     <defName>MicroSolarGenerator</defName>
     <label>micro solar generator 3x3</label>
-    <thingClass>SmallSolarsStuffed.Building_StuffedPowerPlantSolarMicro</thingClass>
+    <thingClass>Building</thingClass>
     <graphicData>
       <texPath>Things/Building/StuffedSolarCollector</texPath>
       <graphicClass>Graphic_Multi</graphicClass>
       <drawSize>(3,3)</drawSize>
+      <damageData>
+        <rect>(0,0.6,4,2.8)</rect>
+      </damageData>
     </graphicData>
-    <altitudeLayer>Waist</altitudeLayer>
+    <altitudeLayer>Building</altitudeLayer>
     <passability>PassThroughOnly</passability>
     <pathCost>70</pathCost>
     <fillPercent>0.5</fillPercent>
@@ -45,10 +50,11 @@
     <costStuffCount>20</costStuffCount>
     <costList>
       <Steel>60</Steel>
+      <Component>2</Component>
     </costList>
     <comps>
-      <li Class="CompProperties_Power">
-        <compClass>CompPowerTrader</compClass>
+     <li Class="CompProperties_Power">
+        <compClass>SmallSolarsStuffed.CompPowerPlantMicroSolar</compClass>
         <basePowerConsumption>-1</basePowerConsumption>
         <transmitsPower>true</transmitsPower>
       </li>
@@ -57,18 +63,26 @@
     <terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
     <designationCategory>Power</designationCategory>
     <staticSunShadowHeight>0.20</staticSunShadowHeight>
+    <designationHotkey>Misc5</designationHotkey>
+    <researchPrerequisites>
+      <li>Electricity</li>
+      <li>SolarPanels</li>
+    </researchPrerequisites>
   </ThingDef>
 
   <ThingDef ParentName="BuildingBase">
     <defName>MiniSolarGenerator</defName>
     <label>mini solar generator 2x2</label>
-    <thingClass>SmallSolarsStuffed.Building_StuffedPowerPlantSolarMini</thingClass>
+    <thingClass>Building</thingClass>
     <graphicData>
       <texPath>Things/Building/StuffedSolarCollector</texPath>
       <graphicClass>Graphic_Multi</graphicClass>
       <drawSize>(2,2)</drawSize>
+      <damageData>
+        <rect>(0,0.6,4,2.8)</rect>
+      </damageData>
     </graphicData>
-    <altitudeLayer>Waist</altitudeLayer>
+    <altitudeLayer>Building</altitudeLayer>
     <passability>PassThroughOnly</passability>
     <pathCost>70</pathCost>
     <fillPercent>0.5</fillPercent>
@@ -91,10 +105,11 @@
     <costStuffCount>10</costStuffCount>
     <costList>
       <Steel>30</Steel>
+      <Component>1</Component>
     </costList>
     <comps>
       <li Class="CompProperties_Power">
-        <compClass>CompPowerTrader</compClass>
+        <compClass>SmallSolarsStuffed.CompPowerPlantMiniSolar</compClass>
         <basePowerConsumption>-1</basePowerConsumption>
         <transmitsPower>true</transmitsPower>
       </li>
@@ -103,18 +118,26 @@
     <terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
     <designationCategory>Power</designationCategory>
     <staticSunShadowHeight>0.20</staticSunShadowHeight>
+    <designationHotkey>Misc5</designationHotkey>
+    <researchPrerequisites>
+      <li>Electricity</li>
+      <li>SolarPanels</li>
+    </researchPrerequisites>
   </ThingDef>
 
   <ThingDef ParentName="BuildingBase">
     <defName>SingleSolarGenerator</defName>
     <label>single solar generator 1x1</label>
-    <thingClass>SmallSolarsStuffed.Building_StuffedPowerPlantSolarSingle</thingClass>
+    <thingClass>Building</thingClass>
     <graphicData>
       <texPath>Things/Building/StuffedSolarCollector</texPath>
       <graphicClass>Graphic_Multi</graphicClass>
       <drawSize>(1,1)</drawSize>
+      <damageData>
+        <rect>(0,0.6,4,2.8)</rect>
+      </damageData>
     </graphicData>
-    <altitudeLayer>Waist</altitudeLayer>
+    <altitudeLayer>Building</altitudeLayer>
     <passability>PassThroughOnly</passability>
     <pathCost>70</pathCost>
     <fillPercent>0.5</fillPercent>
@@ -137,10 +160,11 @@
     <costStuffCount>3</costStuffCount>
     <costList>
       <Steel>10</Steel>
+      <Component>1</Component>
     </costList>
     <comps>
       <li Class="CompProperties_Power">
-        <compClass>CompPowerTrader</compClass>
+        <compClass>SmallSolarsStuffed.CompPowerPlantSingleSolar</compClass>
         <basePowerConsumption>-1</basePowerConsumption>
         <transmitsPower>true</transmitsPower>
       </li>
@@ -149,6 +173,11 @@
     <terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
     <designationCategory>Power</designationCategory>
     <staticSunShadowHeight>0.20</staticSunShadowHeight>
+    <designationHotkey>Misc5</designationHotkey>
+    <researchPrerequisites>
+      <li>Electricity</li>
+      <li>SolarPanels</li>
+    </researchPrerequisites>
   </ThingDef>
 
 </Buildings>
