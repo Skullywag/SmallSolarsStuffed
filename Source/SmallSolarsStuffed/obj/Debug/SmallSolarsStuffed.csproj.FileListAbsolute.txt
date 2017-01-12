@@ -43,3 +43,24 @@ C:\Users\mjsku\Desktop\RimWorld1232WinDev\Mods\SmallSolarsStuffed\Source\SmallSo
 C:\Users\mjsku\Desktop\RimWorld1232WinDev\Mods\SmallSolarsStuffed\Source\SmallSolarsStuffed\bin\Debug\Assembly-CSharp-firstpass.dll
 C:\Users\mjsku\Desktop\RimWorld1232WinDev\Mods\SmallSolarsStuffed\Source\SmallSolarsStuffed\bin\Debug\NAudio.dll
 C:\Users\mjsku\Desktop\RimWorld1232WinDev\Mods\SmallSolarsStuffed\Source\SmallSolarsStuffed\bin\Debug\NVorbis.dll
+C:\Users\mjsku\Desktop\RimWorldAlpha15cWin\RimWorld1284Win\Mods\SmallSolarsStuffed\Source\SmallSolarsStuffed\bin\Debug\SmallSolarsStuffed.dll
+C:\Users\mjsku\Desktop\RimWorldAlpha15cWin\RimWorld1284Win\Mods\SmallSolarsStuffed\Source\SmallSolarsStuffed\bin\Debug\SmallSolarsStuffed.pdb
+C:\Users\mjsku\Desktop\RimWorldAlpha15cWin\RimWorld1284Win\Mods\SmallSolarsStuffed\Source\SmallSolarsStuffed\bin\Debug\Assembly-CSharp.dll
+C:\Users\mjsku\Desktop\RimWorldAlpha15cWin\RimWorld1284Win\Mods\SmallSolarsStuffed\Source\SmallSolarsStuffed\bin\Debug\UnityEngine.dll
+C:\Users\mjsku\Desktop\RimWorldAlpha15cWin\RimWorld1284Win\Mods\SmallSolarsStuffed\Source\SmallSolarsStuffed\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\mjsku\Desktop\RimWorldAlpha15cWin\RimWorld1284Win\Mods\SmallSolarsStuffed\Source\SmallSolarsStuffed\bin\Debug\NAudio.dll
+C:\Users\mjsku\Desktop\RimWorldAlpha15cWin\RimWorld1284Win\Mods\SmallSolarsStuffed\Source\SmallSolarsStuffed\bin\Debug\NVorbis.dll
+C:\Users\mjsku\Desktop\RimWorldAlpha15cWin\RimWorld1284Win\Mods\SmallSolarsStuffed\Source\SmallSolarsStuffed\obj\Debug\SmallSolarsStuffed.csprojResolveAssemblyReference.cache
+C:\Users\mjsku\Desktop\RimWorldAlpha15cWin\RimWorld1284Win\Mods\SmallSolarsStuffed\Source\SmallSolarsStuffed\obj\Debug\SmallSolarsStuffed.dll
+C:\Users\mjsku\Desktop\RimWorldAlpha15cWin\RimWorld1284Win\Mods\SmallSolarsStuffed\Source\SmallSolarsStuffed\obj\Debug\SmallSolarsStuffed.pdb
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\SmallSolarsStuffed-A16\Source\SmallSolarsStuffed\bin\Debug\SmallSolarsStuffed.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\SmallSolarsStuffed-A16\Source\SmallSolarsStuffed\bin\Debug\SmallSolarsStuffed.pdb
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\SmallSolarsStuffed-A16\Source\SmallSolarsStuffed\bin\Debug\Assembly-CSharp.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\SmallSolarsStuffed-A16\Source\SmallSolarsStuffed\bin\Debug\UnityEngine.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\SmallSolarsStuffed-A16\Source\SmallSolarsStuffed\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\SmallSolarsStuffed-A16\Source\SmallSolarsStuffed\bin\Debug\NAudio.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\SmallSolarsStuffed-A16\Source\SmallSolarsStuffed\bin\Debug\NVorbis.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\SmallSolarsStuffed-A16\Source\SmallSolarsStuffed\bin\Debug\UnityEngine.xml
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\SmallSolarsStuffed-A16\Source\SmallSolarsStuffed\obj\Debug\SmallSolarsStuffed.csprojResolveAssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\SmallSolarsStuffed-A16\Source\SmallSolarsStuffed\obj\Debug\SmallSolarsStuffed.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\SmallSolarsStuffed-A16\Source\SmallSolarsStuffed\obj\Debug\SmallSolarsStuffed.pdb

@@ -34,7 +34,7 @@
     <castEdgeShadows>true</castEdgeShadows>
     <statBases>
       <MaxHitPoints>225</MaxHitPoints>
-      <WorkToMake>1850</WorkToMake>
+      <WorkToBuild>1850</WorkToBuild>
       <Flammability>1.0</Flammability>
       <Beauty>-10</Beauty>
     </statBases>
@@ -89,7 +89,7 @@
     <castEdgeShadows>true</castEdgeShadows>
     <statBases>
       <MaxHitPoints>100</MaxHitPoints>
-      <WorkToMake>850</WorkToMake>
+      <WorkToBuild>850</WorkToBuild>
       <Flammability>1.0</Flammability>
       <Beauty>-10</Beauty>
     </statBases>
@@ -144,7 +144,7 @@
     <castEdgeShadows>true</castEdgeShadows>
     <statBases>
       <MaxHitPoints>25</MaxHitPoints>
-      <WorkToMake>250</WorkToMake>
+      <WorkToBuild>250</WorkToBuild>
       <Flammability>1.0</Flammability>
       <Beauty>-10</Beauty>
     </statBases>
